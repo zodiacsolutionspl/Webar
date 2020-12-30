@@ -1,6 +1,6 @@
 {
-"companyName": "ARWEB",
-"productName": "ARWEB",
+"companyName": "DefaultCompany",
+"productName": "ARWT",
 "productVersion": "0.1",
 "dataUrl": "Webgl.data.unityweb",
 "wasmCodeUrl": "Webgl.wasm.code.unityweb",
